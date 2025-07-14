@@ -1,2 +1,3 @@
 # Machine-Learning
-another project
+another project at my pursue in artificial inteligence
+
